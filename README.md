@@ -1,6 +1,6 @@
 <h1 align = "center"> Hello there </h1>
 
-![](https://giphy.com/clips/ralph-hello-hi-there-KxOl63T54r3xuNYIvG)
+![](https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif)
 
 <p align="center"> 
   Visitor count<br>
