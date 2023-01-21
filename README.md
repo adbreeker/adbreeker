@@ -1,6 +1,8 @@
 
-<h1 align="center"> Hi there 👋</h>
-<br> <br> <br> <br>
+<h1 align="center"> Hello there 👋</h>
+<br> <br>
+![](https://giphy.com/clips/ralph-hello-hi-there-KxOl63T54r3xuNYIvG)
+<br> <br>
 
 <p align="center"> 
   Visitor count<br>
