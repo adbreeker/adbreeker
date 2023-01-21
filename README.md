@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hello there 👋</h>
 <br> <br>
-![](https://giphy.com/clips/ralph-hello-hi-there-KxOl63T54r3xuNYIvG)
+![](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 <br> <br>
 
 <p align="center"> 
