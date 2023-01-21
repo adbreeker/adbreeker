@@ -1,6 +1,9 @@
 <h1 align = "center"> adbreeker </h1>
 <h3 align = "center"> https://adbreeker.github.io </h3>
 
+<br>
+<br>
+
 <p align="center">
   <img src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif" alt="animated" />
 </p>
