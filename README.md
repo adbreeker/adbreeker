@@ -1,4 +1,4 @@
-<h1> Hello </h1>
+<h1 align = "center"> Hello </h1>
 
 ![](https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif)
 
