@@ -1,6 +1,8 @@
 <h1> Hello </h1>
 
+<p align ="center">
 ![](https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif)
+ </p>
 
 <p align="center"> 
   Visitor count<br>
