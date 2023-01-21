@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/adbreeker/count.svg" />
+</p>
+
 <!--
 **adbreeker/adbreeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
