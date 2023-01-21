@@ -1,6 +1,4 @@
-
-<h1 align="center"> Hello there 👋</h>
-![](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+![](https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif)
 
 <p align="center"> 
   Visitor count<br>
