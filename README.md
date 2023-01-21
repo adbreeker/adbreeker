@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hello there 👋</h>
 <br> <br>
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+(https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 <br> <br>
 
 <p align="center"> 
