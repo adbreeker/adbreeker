@@ -11,6 +11,13 @@
 <br>
 <br>
 
+<p align="center">
+  <img src="contributions.svg">
+</p>
+
+<br>
+<br>
+
 <p align="center"> 
   Counter of weary wanderers visiting this profile:
   <br>
