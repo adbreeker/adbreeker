@@ -1,5 +1,6 @@
 
-<h1 align="center"> Hi there 👋 <br> <br></h>
+<h1 align="center"> Hi there 👋</h>
+<br> <br> <br> <br>
 
 <p align="center"> 
   Visitor count<br>
