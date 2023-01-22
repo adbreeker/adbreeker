@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="snake.svg">
+  <img src="snarke.svg">
 </p>
 
 <br>
