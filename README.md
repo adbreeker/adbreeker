@@ -12,7 +12,7 @@
 
 <p align="center">
   Counter of weary wanderers visiting this profile:
-  <img src="https://profile-counter.glitch.me/adbreeker/count.svg" />
   <br>
+  <img src="https://profile-counter.glitch.me/adbreeker/count.svg" />
   <img src="snake.svg">
 </p>
