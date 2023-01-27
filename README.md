@@ -40,6 +40,16 @@ In love with late night coding and gaming ❤️
 
 
 
+<p align="center">
+  Counter of weary wanderers visiting this profile:
+  <br>
+  <br>
+  <img src="https://profile-counter.glitch.me/adbreeker/count.svg" />
+  <img src="snake.svg">
+</p>
+
+
+
 
 
 
