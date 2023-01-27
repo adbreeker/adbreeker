@@ -15,7 +15,7 @@ In love with late night coding and gaming ❤️
 
 ### Skills
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss"/>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -32,7 +32,7 @@ In love with late night coding and gaming ❤️
 
 <p align="left"> <a href="https://discord.com/users/adbreeker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/adbreeker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss"/>
+
 
 
 
