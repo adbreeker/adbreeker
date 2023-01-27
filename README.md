@@ -14,7 +14,7 @@ In love with late night coding and gaming ❤️
 * 🧠  I'm learning on University
 
 ### Skills
-<img align="right" width="550" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss"/>
+<img align="right" width="500" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss"/>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
