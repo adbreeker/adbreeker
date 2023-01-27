@@ -11,7 +11,7 @@ In love with late night coding and gaming ❤️
 * ✉️  You can contact me at [adbreeker@gmail.com](mailto:adbreeker@gmail.com)
 * 🌐  Or check my webstie https://adbreeker.github.io
 * 🚀  I'm currently working on [few games for playstore](http://play.google.com/store/search?q=adbreeker&c=apps&hl=pl)
-* 🧠  I'm learning on University
+* 🧠  I'm learning at University
 
 ### Skills
 <img align="right" width="450" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss"/>
@@ -41,7 +41,7 @@ In love with late night coding and gaming ❤️
 
 
 <p align="Center">
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
   Visitors counter:
   <br>
   <img src="https://profile-counter.glitch.me/adbreeker/count.svg" />
