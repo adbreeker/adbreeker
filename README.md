@@ -41,12 +41,13 @@ In love with late night coding and gaming ❤️
 
 
 <p align="Center">
-  <br>
-  <br>
-  <br>
+  
+  
+  
   Visitors counter:
-  <br>
   <img src="https://profile-counter.glitch.me/adbreeker/count.svg" />
+  
+  
   <img src="snake.svg">
 </p>
 
