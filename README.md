@@ -5,7 +5,6 @@ game/software/back-end developer
 --------------------------------
 
 Currently a student at the Adam Mickiewicz University in Poznań.
-
 In love with late night coding and gaming ❤️
 
 * 🌍  I'm based in Gdańsk, Poland
