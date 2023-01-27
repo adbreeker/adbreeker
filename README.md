@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 game/software/back-end developer
 --------------------------------
 
-Currently a student at the Adam Mickiewicz University in Poznań. 
+Currently a student at the Adam Mickiewicz University in Poznań.
+
 In love with late night coding and gaming ❤️
 
 * 🌍  I'm based in Gdańsk, Poland
