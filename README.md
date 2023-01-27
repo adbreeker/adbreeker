@@ -47,7 +47,6 @@ In love with late night coding and gaming ❤️
   <br>
   <br>
   <br>
-  <br>
   Visitors counter:
   <br>
   <img src="https://profile-counter.glitch.me/adbreeker/count.svg" />
