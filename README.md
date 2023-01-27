@@ -5,7 +5,7 @@ game/software/back-end developer
 --------------------------------
 
 Currently a student at the Adam Mickiewicz University in Poznań.
-    In love with late night coding and gaming ❤️
+In love with late night coding and gaming ❤️
 
 * 🌍  I'm based in Gdańsk, Poland
 * ✉️  You can contact me at [adbreeker@gmail.com](mailto:adbreeker@gmail.com)
