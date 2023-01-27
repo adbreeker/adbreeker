@@ -5,8 +5,6 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 <h3 align ="center">
 game/software/back-end developer
 </h3> 
-game/software/back-end developer
---------------------------------
 
 Currently a student at the Adam Mickiewicz University in Poznań.  
 In love with late night coding and gaming ❤️
