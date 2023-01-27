@@ -11,6 +11,11 @@ In love with late night coding and gaming ❤️
 * ✉️  You can contact me at [adbreeker@gmail.com](mailto:adbreeker@gmail.com)
 * 🚀  I'm currently working on [few games for playstore](http://play.google.com/store/search?q=adbreeker&c=apps&hl=pl)
 * 🧠  I'm learning at University
+* 🌍  I'm based in Gdańsk, Poland 🌐 Or check my webstie https://adbreeker.github.io
+* ✉️  You can contact me at [adbreeker@gmail.com](mailto:adbreeker@gmail.com)
+* 🚀  I'm currently working on [few games for playstore](http://play.google.com/store/search?q=adbreeker&c=apps&hl=pl)
+* 🧠  I'm learning at University
+
 
 ### Skills
 <img align="right" width="450" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss"/>
