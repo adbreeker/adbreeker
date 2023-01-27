@@ -23,3 +23,5 @@
   <br>
   <img src="https://profile-counter.glitch.me/adbreeker/count.svg" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss)](https://github.com/anuraghazra/github-readme-stats)
