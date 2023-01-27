@@ -8,10 +8,12 @@
   <img src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif" alt="animated" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss"(https://github.com/anuraghazra/github-readme-stats)/>
+  <br>
   
   Counter of weary wanderers visiting this profile:
   <br>
   <img src="https://profile-counter.glitch.me/adbreeker/count.svg" />
+  <br>
   <br>
   <img src="snake.svg">
 </p>
