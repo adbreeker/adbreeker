@@ -43,7 +43,7 @@ In love with late night coding and gaming ❤️
 
 
 
-<p align="Center">
+<p align="center">
   <br><br><br><br><br><br>
   Visitors counter:
   <br>
