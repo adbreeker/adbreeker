@@ -17,7 +17,7 @@ In love with late night coding and gaming ❤️
 
 
 ### Skills
-<img align="right" width="450" height="300" src="https://github-readme-stats-adbreeker.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&theme=dark&title_color=0891b2&hide=tcl,html,css,powershell,scss"/>
+<img align="right" width="450" height="300" src="https://github-readme-stats-adbreeker.vercel.app/api/top-langs/?username=adbreeker&hide=shader&show_icons=true&theme=dark&title_color=0891b2&hide=tcl,html,css,powershell,scss"/>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -42,7 +42,7 @@ In love with late night coding and gaming ❤️
 
 ### GitHub Stats
 
-<a href="http://www.github.com/adbreeker"><img align="left" width="350" src="https://github-readme-stats-adbreeker.vercel.app/api?username=adbreeker&hide=shader&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&show_icons=true" alt="adbreeker's GitHub stats" /></a>
+<a href="http://www.github.com/adbreeker"><img align="left" width="350" src="https://github-readme-stats-adbreeker.vercel.app/api?username=adbreeker&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&show_icons=true" alt="adbreeker's GitHub stats" /></a>
 
 
 
