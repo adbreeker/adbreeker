@@ -45,7 +45,7 @@ In love with late night coding and gaming ❤️
   const prefersDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
   const githubIcon = document.getElementById('github-icon');
 
-  if (prefersDarkMode) {
+  if (!prefersDarkMode) {
     githubIcon.src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg";
   }
 </script>
