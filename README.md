@@ -38,6 +38,8 @@ In love with late night coding and gaming ❤️
 </p>
 
 
+
+
 ### GitHub Stats
 
 <a href="http://www.github.com/adbreeker"><img align="left" width="350" src="https://github-readme-stats-adbreeker.vercel.app/api?username=adbreeker&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&show_icons=true" alt="adbreeker's GitHub stats" /></a>
@@ -51,7 +53,6 @@ In love with late night coding and gaming ❤️
   <img src="https://profile-counter.glitch.me/adbreeker/count.svg" />
   <img src="snake.svg">
 </p>
-
 
 
 
