@@ -9,8 +9,7 @@ game/software/back-end developer
 Currently a student at the Adam Mickiewicz University in Poznań.  
 In love with late night coding and gaming ❤️
 
-* 🌍  I'm currently based in Poznań but I am often in Gdańsk, Poland ![image](https://github.com/adbreeker/adbreeker/assets/111668308/a711ee5c-746e-4707-a140-bea2def62758)
-
+* 🌍  I'm currently based in Poznań but I am often in Gdańsk, Poland <img src="(https://github.com/adbreeker/adbreeker/assets/111668308/a711ee5c-746e-4707-a140-bea2def62758)" width="36" height="36" alt="Python" />
 * ✉️  You can contact me at [adbreeker@gmail.com](mailto:adbreeker@gmail.com)
 * 🌐  Or check my webstie https://adbreeker.github.io
 * 🚀  I'm currently working on [few games for playstore](http://play.google.com/store/search?q=adbreeker&c=apps&hl=pl)
