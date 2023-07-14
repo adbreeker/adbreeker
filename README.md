@@ -19,7 +19,7 @@ In love with late night coding and gaming ❤️
 ### Skills
 <p align="right">
 <img align="right" width="450" height="300" src="https://github-readme-stats-adbreeker.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&count_private=true&theme=dark&title_color=0891b2&hide=tcl,html,css,powershell,scss,shaderlab"/>
-</p>p>
+</p>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
