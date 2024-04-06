@@ -12,7 +12,7 @@ In love with late night coding and gaming ❤️
 * 🌍  I'm currently based in Poznań, but i am often in Gdańsk
 * ✉️  You can contact me at [adbreeker@gmail.com](mailto:adbreeker@gmail.com)
 * 🌐  Or check my webstie https://adbreeker.github.io
-* 🚀  I'm currently working on [few games for playstore](https://play.google.com/store/apps/developer?id=adbreeker&hl=pl)
+* 🚀  I'm currently working on few games for [playstore](https://play.google.com/store/apps/developer?id=adbreeker&hl=pl) and [itch.io](https://adbreeker.itch.io)
 * 🧠  I'm learning at University
 
 
