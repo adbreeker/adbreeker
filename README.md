@@ -7,13 +7,13 @@ game/software/back-end developer
 </h2> 
 
 Currently a student at the Gdańsk University of Technology.  
-In love with late night coding and gaming ❤️
+In love with gaming, late night coding and shellsort ❤️
 
 * 🌍  I live in Gdańsk
 * ✉️  You can contact me at [adbreeker@gmail.com](mailto:adbreeker@gmail.com)
 * 🌐  Or check my webstie https://adbreeker.github.io
 * 🚀  I'm currently working on few games for [playstore](https://play.google.com/store/apps/developer?id=adbreeker&hl=pl) and [itch.io](https://adbreeker.itch.io)
-* 🧠  I'm learning at University
+* 🧠  I have completed my bachelor's in Computer Science and am now studying for a master's degree
 
 
 ### Skills
