@@ -6,10 +6,10 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 game/software/back-end developer
 </h2> 
 
-Currently a student at the Adam Mickiewicz University in Poznań.  
+Currently a student at the Gdańsk University of Technology.  
 In love with late night coding and gaming ❤️
 
-* 🌍  I'm currently based in Poznań, but i am often in Gdańsk
+* 🌍  I live in Gdańsk
 * ✉️  You can contact me at [adbreeker@gmail.com](mailto:adbreeker@gmail.com)
 * 🌐  Or check my webstie https://adbreeker.github.io
 * 🚀  I'm currently working on few games for [playstore](https://play.google.com/store/apps/developer?id=adbreeker&hl=pl) and [itch.io](https://adbreeker.itch.io)
