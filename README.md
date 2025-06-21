@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm adbreeker
+<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm adbreeker</h1>
 
-## 🎮 Game Developer | 💻 Software Engineer | 🔧 Back-end Developer
+<h2>🎮 Game Developer | 💻 Software Engineer | 🔧 Back-end Developer</h2>
 
 *Currently pursuing Master's in Computer Science at Gdańsk University of Technology*  
 *Passionate about gaming, late night coding, and shellsort* ❤️
@@ -13,7 +13,7 @@
 
 <br><br>
 
-## 🌟 About Me
+<h2>🌟 About Me</h2>
 
 🌍 **Location:** Gdańsk, Poland  
 ✉️ **Contact:** [adbreeker@gmail.com](mailto:adbreeker@gmail.com)  
@@ -22,12 +22,12 @@
 🚀 **Current Projects:** Visual impairment simulator for virtual reality CAVEs  
 🎓 **Education:** Bachelor's in Computer Science (completed) → Master's in progress
 
-### 🗣️ Languages
+<h3>🗣️ Languages</h3> 
 
 <img src="https://flagcdn.com/w20/pl.png" width="20" alt="Poland"> **Polish** - Native  
 <img src="https://flagcdn.com/w20/us.png" width="20" alt="United States"> **English** - C1
 
-### 🤝 Social media
+<h3>🤝 Social media</h3> 
 
 <div align="left">
 <p>
