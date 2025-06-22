@@ -67,7 +67,9 @@
 </p>
 
 #### Most Used Languages
-<img src="https://github-readme-stats-adbreeker.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&count_private=true&theme=dark&title_color=0891b2&hide=tcl,html,css,powershell,scss,shaderlab&card_width=600&card_height=300" alt="adbreeker's Top Languages"/>
+<img src="https://github-readme-stats-adbreeker.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&count_private=true&theme=dark&title_color=0891b2&hide=tcl,html,css,powershell,scss,shaderlab&card_width=600&card_height=300" 
+     alt="adbreeker's Top Languages"
+     onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);"/>
 
 </div>
 
@@ -77,8 +79,11 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats-adbreeker.vercel.app/api?username=adbreeker&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&show_icons=true&card_width=500&card_height=300" alt="adbreeker's GitHub stats" />
-<img src="snake.svg" alt="Snake animation" />
+<img src="https://github-readme-stats-adbreeker.vercel.app/api?username=adbreeker&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&show_icons=true&card_width=500&card_height=300" 
+     alt="adbreeker's GitHub stats"
+     onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);" />
+<img src="snake.svg" alt="Snake animation" 
+     onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);" />
 </div>
 
 ---
@@ -86,5 +91,6 @@
 <div align="center">
 <p><i>"If I had asked people what they wanted, they would have said faster horses."</i> ~ Henry Ford (allegedly)</p>
 👀 Profile Views: <br>
-<img src="https://profile-counter.glitch.me/adbreeker/count.svg" />
+<img src="https://profile-counter.glitch.me/adbreeker/count.svg" 
+     onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);" />
 </div>
