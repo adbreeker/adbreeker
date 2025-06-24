@@ -67,7 +67,7 @@
 </p>
 
 #### Most Used Languages
-<img src="https://github-readme-stats-adbreekers-projects.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&count_private=true&theme=dark&title_color=0891b2&hide=tcl,html,css,powershell,scss,shaderlab&card_width=600&card_height=300" 
+<img src="https://github-readme-stats-adbreekers-projects.vercel.app/api/top-langs/?username=adbreeker&show_icons=true&count_private=true&theme=dark&title_color=0891b2&hide=tcl,html,css,powershell,scss,shaderlab,jupyter%20notebook&card_width=600&card_height=300" 
      alt="adbreeker's Top Languages"
      onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);"/>
 
