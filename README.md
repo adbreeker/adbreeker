@@ -82,7 +82,7 @@
 <div align="left">
 
 <a href="https://github-stats-animator.vercel.app" target="_blank">
-<img src="https://github-stats-animator.vercel.app/api/account-general?theme=dark&icon=default%2Bstreak&slot1=stars&slot2=commits_total&slot3=commits_year&slot4=pull_requests&slot5=issues" 
+<img src="https://github-stats-animator.vercel.app/api/account-general?theme=dark&icon=user%2Bstreak&animation_time=8&slot1=stars&slot2=commits_total&slot3=commits_6_months&slot4=pull_requests&slot5=issues" 
      alt="adbreeker's GitHub stats"
      onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);" />
 </a>
