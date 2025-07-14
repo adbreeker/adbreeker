@@ -96,7 +96,7 @@
 
 <div align="center">
 <p><i>"If I had asked people what they wanted, they would have said faster horses."</i> ~ Henry Ford (allegedly)</p>
-👀 Profile Views: <br>
+<!--👀 Profile Views: <br>
 <img src="https://profile-counter.glitch.me/adbreeker/count.svg" alt="no longer supported" 
-     onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);" />
+     onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);" />-->
 </div>
