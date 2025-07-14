@@ -100,6 +100,6 @@
 <img src="https://profile-counter.glitch.me/adbreeker/count.svg" alt="no longer supported" 
      onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);" />-->
 👀 Profile Views: <br>
-<img src="https://github-stats-animator-git-views-counter-adbreekers-projects.vercel.app/api/views-counter" alt="testing" 
+<img src="https://github-stats-animator.vercel.app/api/views-counter" alt="testing" 
      onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);" />
 </div>
