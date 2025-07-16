@@ -83,11 +83,12 @@
 
 <a href="https://github-stats-animator.vercel.app" target="_blank">
 <img src="https://github-stats-animator.vercel.app/api/account-general?theme=dark&icon=user%2Bstreak&animation_time=8&slot1=stars&slot2=commits_total&slot3=commits_6_months&slot4=pull_requests&slot5=issues" 
-     alt="adbreeker's GitHub stats"
+     alt="adbreeker's GitHub Stats"
      onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);" />
 </a>
 <a href="https://github-stats-animator.vercel.app" target="_blank">
-<img src="https://github-stats-animator.vercel.app/api/contributions-graph?theme=dark&text=ADBREEKER&animation_time=8&pause_time=3&line_color=%23212121&line_alpha=0.05&square_size=12" 
+<img src="https://github-stats-animator.vercel.app/api/contributions-graph?theme=dark&text=ADBREEKER&animation_time=8&pause_time=3&line_color=%23212121&line_alpha=0.05&square_size=12"
+     alt="adbreeker's Contributions Graph"
      onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);" />
 </a>
 </div>
@@ -100,6 +101,9 @@
 <img src="https://profile-counter.glitch.me/adbreeker/count.svg" alt="no longer supported" 
      onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);" />-->
 👀 Profile Views: <br>
-<img src="https://github-stats-animator.vercel.app/api/views-counter" alt="testing" 
+<a href="https://github-stats-animator.vercel.app" target="_blank">
+<img src="https://github-stats-animator.vercel.app/api/views-counter?theme=dark&animated=true" 
+     alt="adbreeker's Views Counter" 
      onerror="this.onerror=null; this.alt='Test'; setTimeout(() => { this.src = this.src + '?retry=' + Date.now(); }, 1000);" />
+</a>
 </div>
