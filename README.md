@@ -2,7 +2,7 @@
 
 <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm adbreeker</h1>
 
-<h2>🎮 Game Developer | 💻 Software Engineer | 🔧 Back-end Developer</h2>
+<h2>🎮 Game Developer | 🔧 Software Engineer | 💻 Code Enthusiast</h2>
 
 *Currently pursuing Master's in Computer Science at Gdańsk University of Technology*  
 *Passionate about gaming, late night coding, and shellsort* ❤️
