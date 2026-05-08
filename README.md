@@ -11,60 +11,96 @@
 
 ---
 
-<br><br>
+<br>
 
-<h2>🌟 About Me</h2>
+## 🌟 About Me
 
 🌍 **Location:** Gdańsk, Poland  
 ✉️ **Contact:** [adbreeker@gmail.com](mailto:adbreeker@gmail.com)  
-🌐 **Website:** [adbreeker.github.io](https://adbreeker.github.io)  
+🌐 **Website:** ~[adbreeker.github.io](https://adbreeker.github.io)~ (WiP)  
 🎮 **My Games:** [Google Play](https://play.google.com/store/apps/developer?id=adbreeker&hl=pl) | [itch.io](https://adbreeker.itch.io)  
-🚀 **Current Projects:** Visual impairment simulator for virtual reality CAVEs  
+🚀 **Current Projects:** Multicore CUDA+OpenMP pipeline searching for Shellsort gap sequences  
 🎓 **Education:** Bachelor's in Computer Science (completed) → Master's in progress
 
-<h3>🗣️ Languages</h3> 
+### 🗣️ Languages 
 
 <img src="https://flagcdn.com/w20/pl.png" width="20" alt="Poland"> **Polish** - Native  
 <img src="https://flagcdn.com/w20/us.png" width="20" alt="United States"> **English** - C1
 
-<h3>🤝 Social media</h3> 
+### 🤝 Socials
 
 <div align="left">
-<p>
-  <a href="https://www.linkedin.com/in/adamcherek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn"/></a> 
-  <a href="https://discord.com/users/adbreeker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" alt="Discord"/></a>
-  <a href="https://www.youtube.com/channel/UCdQG56vFHQJD_VeGSW4aaGQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" height="40" alt="Youtube"/></a> 
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/adamcherek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn"/></a>
+    </td>
+    <td>
+      <a href="https://discord.com/users/adbreeker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" alt="Discord"/></a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/channel/UCdQG56vFHQJD_VeGSW4aaGQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" height="40" alt="Youtube"/></a>
+    </td>
+  </tr>
+</table>
 </div>
 
-<br><br>
+<br>
 
 ## 🛠️ Skills & Technologies
 
 <div align="left">
 
 #### Programming Languages
-<p>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="50" height="50" alt="C++" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="50" height="50" alt="C#" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" height="50" alt="Java" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" /></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C" /></a>
+    </td>
+    <td>
+      <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="50" height="50" alt="C++" /></a>
+    </td>
+    <td>
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="50" height="50" alt="C#" /></a>
+    </td>
+    <td>
+      <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" height="50" alt="Java" /></a>
+    </td>
+    <td>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
+    </td>
+    <td>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" /></a>
+    </td>
+  </tr>
+</table>
 
 #### Tools
-<p>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="50" height="50"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="50" height="50"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="MySQL" width="50" height="50"/></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="50" height="50"/></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="50" height="50"/></a>
+    </td>
+    <td>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="50" height="50"/></a>
+    </td>
+    <td>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="MySQL" width="50" height="50"/></a>
+    </td>
+    <td>
+      <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="50" height="50"/></a>
+    </td>
+  </tr>
+</table>
 
 #### Game Development
-<p>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="50" height="50"/></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="50" height="50"/></a>
+    </td>
+  </tr>
+</table>
 
 #### Most Used Languages
 <a href="https://github-stats-animator.vercel.app" target="_blank">
@@ -75,7 +111,7 @@
 
 </div>
 
-<br><br><br>
+<br>
 
 ## 📈 GitHub Statistics
 
